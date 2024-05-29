@@ -4,5 +4,4 @@ pydantic
 numpy
 pandas
 seaborn
-scipy.stats
 ydata_profiling
