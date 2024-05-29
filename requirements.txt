@@ -1,6 +1,3 @@
-pandas
-numpy
+fastapi[all]
 scikit-learn
-fastapi  
 joblib
-pydantic
