@@ -1,7 +1,6 @@
-fastapi
+pandas
+numpy
+scikit-learn
+fastapi  
 joblib
 pydantic
-numpy
-pandas
-seaborn
-ydata_profiling
